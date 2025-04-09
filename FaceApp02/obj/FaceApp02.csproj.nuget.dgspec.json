@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FaceDetectionSolution - Copy (2)\\FaceApp02\\FaceApp02.csproj": {}
+  },
+  "projects": {
+    "E:\\FaceDetectionSolution - Copy (2)\\FaceApp02\\FaceApp02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FaceDetectionSolution - Copy (2)\\FaceApp02\\FaceApp02.csproj",
+        "projectName": "FaceApp02",
+        "projectPath": "E:\\FaceDetectionSolution - Copy (2)\\FaceApp02\\FaceApp02.csproj",
+        "packagesPath": "C:\\Users\\ntien\\.nuget\\packages\\",
+        "outputPath": "E:\\FaceDetectionSolution - Copy (2)\\FaceApp02\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ntien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[3.116.1, )"
+            },
+            "SocketIOClient": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "ViewFaceCore": {
+              "target": "Package",
+              "version": "[0.3.8, )"
+            },
+            "ViewFaceCore.Extension.SkiaSharp": {
+              "target": "Package",
+              "version": "[0.3.7, )"
+            },
+            "ViewFaceCore.all_models": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "ViewFaceCore.model.fas_first": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "ViewFaceCore.model.fas_second": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "ViewFaceCore.runtime.win.x64": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

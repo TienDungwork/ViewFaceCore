@@ -1,0 +1,130 @@
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\FaceApp02.csproj.AssemblyReference.cache
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\FaceApp02.GeneratedMSBuildEditorConfig.editorconfig
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\FaceApp02.AssemblyInfoInputs.cache
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\FaceApp02.AssemblyInfo.cs
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\FaceApp02.csproj.CoreCompileInputs.cache
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaAgePredictor600.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaAuthorize.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaEyeStateDetector200.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceAntiSpoofingX600.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceDetector600.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceLandmarker600.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceRecognizer610.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceTracking600.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaGenderPredictor600.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaMaskDetector200.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaPoseEstimation600.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaQualityAssessor300.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\tennis.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\tennis_haswell.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\tennis_pentium.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\tennis_sandy_bridge.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\ViewFaceBridge.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\quality_lbn.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\pose_estimation.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\mask_detector.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\gender_predictor.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\fas_second.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\fas_first.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_recognizer_mask.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_recognizer_light.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_recognizer.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_landmarker_pts68.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_landmarker_pts5.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_landmarker_mask_pts5.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_detector.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\eye_state.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\viewfacecore\models\age_predictor.csta
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\FaceApp02.exe
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\FaceApp02.deps.json
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\FaceApp02.runtimeconfig.json
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\FaceApp02.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\FaceApp02.pdb
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\SkiaSharp.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\System.Private.Windows.Core.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\ViewFaceCore.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\ViewFaceCore.Extension.SkiaSharp.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\FaceDetectionSolution\FaceApp02\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\FaceApp02.csproj.Up2Date
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\FaceApp02.dll
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\refint\FaceApp02.dll
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\FaceApp02.pdb
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\FaceApp02.genruntimeconfig.cache
+E:\FaceDetectionSolution\FaceApp02\obj\Debug\net8.0\ref\FaceApp02.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\FaceApp02.csproj.AssemblyReference.cache
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\FaceApp02.GeneratedMSBuildEditorConfig.editorconfig
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\FaceApp02.AssemblyInfoInputs.cache
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\FaceApp02.AssemblyInfo.cs
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\FaceApp02.csproj.CoreCompileInputs.cache
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\FaceApp02.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\refint\FaceApp02.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\FaceApp02.pdb
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaAgePredictor600.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaAuthorize.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaEyeStateDetector200.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceAntiSpoofingX600.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceDetector600.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceLandmarker600.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceRecognizer610.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaFaceTracking600.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaGenderPredictor600.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaMaskDetector200.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaPoseEstimation600.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\SeetaQualityAssessor300.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\tennis.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\tennis_haswell.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\tennis_pentium.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\tennis_sandy_bridge.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\win\x64\ViewFaceBridge.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\quality_lbn.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\pose_estimation.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\mask_detector.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\gender_predictor.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\fas_second.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\fas_first.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_recognizer_mask.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_recognizer_light.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_recognizer.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_landmarker_pts68.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_landmarker_pts5.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_landmarker_mask_pts5.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\face_detector.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\eye_state.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\viewfacecore\models\age_predictor.csta
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\FaceApp02.exe
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\FaceApp02.deps.json
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\FaceApp02.runtimeconfig.json
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\FaceApp02.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\FaceApp02.pdb
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\SkiaSharp.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\System.Private.Windows.Core.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\ViewFaceCore.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\ViewFaceCore.Extension.SkiaSharp.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\FaceApp02.csproj.Up2Date
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\FaceApp02.genruntimeconfig.cache
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\obj\Debug\net8.0\ref\FaceApp02.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\SocketIO.Core.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\SocketIO.Serializer.Core.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\SocketIO.Serializer.SystemTextJson.dll
+E:\FaceDetectionSolution - Copy (2)\FaceApp02\bin\Debug\net8.0\SocketIOClient.dll

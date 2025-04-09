@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FaceDetectionSolution - Copy (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2FF9AD-4D12-4AC2-8FE2-5001038C7ED7}|FaceApp03\\FaceApp03.vcxproj|E:\\FaceDetectionSolution - Copy (2)\\FaceApp03\\FaceApp03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C2FF9AD-4D12-4AC2-8FE2-5001038C7ED7}|FaceApp03\\FaceApp03.vcxproj|solutionrelative:FaceApp03\\FaceApp03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF8CF7-2E13-4F1F-A2D9-03E7D36DDF33}|FaceApp02\\FaceApp02.csproj|e:\\facedetectionsolution - copy (2)\\faceapp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF8CF7-2E13-4F1F-A2D9-03E7D36DDF33}|FaceApp02\\FaceApp02.csproj|solutionrelative:faceapp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1D13FA-3181-4336-A300-40D5831AE8F6}|FaceApp01\\FaceApp01.pyproj|E:\\FaceDetectionSolution - Copy (2)\\FaceApp01\\FaceApp01.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED1D13FA-3181-4336-A300-40D5831AE8F6}|FaceApp01\\FaceApp01.pyproj|solutionrelative:FaceApp01\\FaceApp01.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A87D9A6-CB1C-4B58-B511-F7DB60C63077}|sever\\sever.pyproj|E:\\FaceDetectionSolution - Copy (2)\\sever\\sever.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A87D9A6-CB1C-4B58-B511-F7DB60C63077}|sever\\sever.pyproj|solutionrelative:sever\\sever.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FaceApp01.py",
+              "DocumentMoniker": "E:\\FaceDetectionSolution - Copy (2)\\FaceApp01\\FaceApp01.py",
+              "RelativeDocumentMoniker": "FaceApp01\\FaceApp01.py",
+              "ToolTip": "E:\\FaceDetectionSolution - Copy (2)\\FaceApp01\\FaceApp01.py",
+              "RelativeToolTip": "FaceApp01\\FaceApp01.py",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-27T01:57:09.358Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FaceDetectionSolution - Copy (2)\\FaceApp02\\Program.cs",
+              "RelativeDocumentMoniker": "FaceApp02\\Program.cs",
+              "ToolTip": "E:\\FaceDetectionSolution - Copy (2)\\FaceApp02\\Program.cs",
+              "RelativeToolTip": "FaceApp02\\Program.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAkwN8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:55:30.249Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaceApp03.cpp",
+              "DocumentMoniker": "E:\\FaceDetectionSolution - Copy (2)\\FaceApp03\\FaceApp03.cpp",
+              "RelativeDocumentMoniker": "FaceApp03\\FaceApp03.cpp",
+              "ToolTip": "E:\\FaceDetectionSolution - Copy (2)\\FaceApp03\\FaceApp03.cpp*",
+              "RelativeToolTip": "FaceApp03\\FaceApp03.cpp*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T03:37:34.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sever.py",
+              "DocumentMoniker": "E:\\FaceDetectionSolution - Copy (2)\\sever\\sever.py",
+              "RelativeDocumentMoniker": "sever\\sever.py",
+              "ToolTip": "E:\\FaceDetectionSolution - Copy (2)\\sever\\sever.py",
+              "RelativeToolTip": "sever\\sever.py",
+              "ViewState": "AgIAADYAAAAAEEIIIYT4v2IAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-04T06:27:44.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

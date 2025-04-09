@@ -1,0 +1,18 @@
+2025-04-02 16:26:22,544 - INFO - Static - Read: 26ms, Resize: 11ms, Encode: 7ms, Send: 301ms
+2025-04-02 16:26:22,855 - INFO - Webcam - Read: 8ms, Encode: 1ms, Send: 0ms
+2025-04-02 16:26:23,369 - INFO - Webcam - Read: 7ms, Encode: 3ms, Send: 0ms
+2025-04-02 16:26:23,879 - INFO - Webcam - Read: 7ms, Encode: 1ms, Send: 0ms
+2025-04-02 16:26:24,391 - INFO - Webcam - Read: 6ms, Encode: 1ms, Send: 0ms
+2025-04-02 16:26:24,905 - INFO - Webcam - Read: 8ms, Encode: 4ms, Send: 0ms
+2025-04-02 16:26:53,032 - INFO - Static - Read: 9ms, Resize: 1ms, Encode: 1ms, Send: 301ms
+2025-04-02 16:26:53,342 - INFO - Webcam - Read: 8ms, Encode: 1ms, Send: 0ms
+2025-04-02 16:26:53,854 - INFO - Webcam - Read: 7ms, Encode: 1ms, Send: 0ms
+2025-04-02 16:26:54,364 - INFO - Webcam - Read: 8ms, Encode: 1ms, Send: 0ms
+2025-04-02 16:26:54,878 - INFO - Webcam - Read: 8ms, Encode: 2ms, Send: 0ms
+2025-04-02 16:26:55,392 - INFO - Webcam - Read: 6ms, Encode: 4ms, Send: 1ms
+2025-04-02 16:28:44,724 - INFO - Static - Read: 9ms, Resize: 1ms, Encode: 1ms, Send: 301ms
+2025-04-02 16:28:45,033 - INFO - Webcam - Read: 7ms, Encode: 1ms, Send: 0ms
+2025-04-02 16:28:45,545 - INFO - Webcam - Read: 8ms, Encode: 1ms, Send: 0ms
+2025-04-02 16:28:46,059 - INFO - Webcam - Read: 7ms, Encode: 4ms, Send: 0ms
+2025-04-02 16:28:46,572 - INFO - Webcam - Read: 8ms, Encode: 2ms, Send: 0ms
+2025-04-02 16:28:47,084 - INFO - Webcam - Read: 7ms, Encode: 1ms, Send: 0ms

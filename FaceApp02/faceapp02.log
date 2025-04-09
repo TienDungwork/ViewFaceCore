@@ -1,0 +1,37 @@
+2025-04-02 16:25:43.350 - Phần mềm 02: Đang khởi động trên Orange Pi...
+2025-04-02 16:26:22.247 - Nhận frame từ 127.0.0.1:6589, kích thước: 4 bytes
+2025-04-02 16:26:22.247 - Đã nhận header REF_, chờ ảnh tham chiếu...
+2025-04-02 16:26:22.545 - Nhận frame từ 127.0.0.1:6589, kích thước: 14432 bytes
+2025-04-02 16:26:22.545 - Đã nhận ảnh tham chiếu mới, kích thước: 14432 bytes
+2025-04-02 16:26:22.758 - Processed Reference - RefDecode: 126ms, RefDetect: 42ms, RefMark: 7ms, RefExtract: 36ms
+2025-04-02 16:26:22.855 - Nhận frame từ 127.0.0.1:6589, kích thước: 11132 bytes
+2025-04-02 16:26:23.370 - Nhận frame từ 127.0.0.1:6589, kích thước: 11041 bytes
+2025-04-02 16:26:23.880 - Nhận frame từ 127.0.0.1:6589, kích thước: 11108 bytes
+2025-04-02 16:26:24.391 - Nhận frame từ 127.0.0.1:6589, kích thước: 10924 bytes
+2025-04-02 16:26:24.906 - Nhận frame từ 127.0.0.1:6589, kích thước: 10151 bytes
+2025-04-02 16:26:25.118 - Times - Decode: 6ms, Detect: 48ms, Mark: 7ms, AntiSpoof: 117ms, Extract: 31ms, Similarity: 0ms
+2025-04-02 16:26:25.122 - Đã gửi kết quả: Xác thực thành công | Similarity: 0.80 | Thời gian: 209ms
+2025-04-02 16:26:52.732 - Nhận frame từ 127.0.0.1:6589, kích thước: 4 bytes
+2025-04-02 16:26:52.732 - Đã nhận header REF_, chờ ảnh tham chiếu...
+2025-04-02 16:26:53.032 - Nhận frame từ 127.0.0.1:6589, kích thước: 14432 bytes
+2025-04-02 16:26:53.032 - Đã nhận ảnh tham chiếu mới, kích thước: 14432 bytes
+2025-04-02 16:26:53.113 - Processed Reference - RefDecode: 2ms, RefDetect: 38ms, RefMark: 5ms, RefExtract: 35ms
+2025-04-02 16:26:53.343 - Nhận frame từ 127.0.0.1:6589, kích thước: 11432 bytes
+2025-04-02 16:26:53.854 - Nhận frame từ 127.0.0.1:6589, kích thước: 11533 bytes
+2025-04-02 16:26:54.365 - Nhận frame từ 127.0.0.1:6589, kích thước: 11478 bytes
+2025-04-02 16:26:54.879 - Nhận frame từ 127.0.0.1:6589, kích thước: 11480 bytes
+2025-04-02 16:26:55.392 - Nhận frame từ 127.0.0.1:6589, kích thước: 11484 bytes
+2025-04-02 16:26:55.603 - Times - Decode: 9ms, Detect: 50ms, Mark: 10ms, AntiSpoof: 104ms, Extract: 35ms, Similarity: 0ms
+2025-04-02 16:26:55.603 - Đã gửi kết quả: Xác thực thành công | Similarity: 0.77 | Thời gian: 208ms
+2025-04-02 16:28:44.424 - Nhận frame từ 127.0.0.1:6589, kích thước: 4 bytes
+2025-04-02 16:28:44.424 - Đã nhận header REF_, chờ ảnh tham chiếu...
+2025-04-02 16:28:44.724 - Nhận frame từ 127.0.0.1:6589, kích thước: 14432 bytes
+2025-04-02 16:28:44.724 - Đã nhận ảnh tham chiếu mới, kích thước: 14432 bytes
+2025-04-02 16:28:44.811 - Processed Reference - RefDecode: 4ms, RefDetect: 39ms, RefMark: 7ms, RefExtract: 34ms
+2025-04-02 16:28:45.034 - Nhận frame từ 127.0.0.1:6589, kích thước: 10009 bytes
+2025-04-02 16:28:45.545 - Nhận frame từ 127.0.0.1:6589, kích thước: 10389 bytes
+2025-04-02 16:28:46.060 - Nhận frame từ 127.0.0.1:6589, kích thước: 10814 bytes
+2025-04-02 16:28:46.573 - Nhận frame từ 127.0.0.1:6589, kích thước: 10724 bytes
+2025-04-02 16:28:47.084 - Nhận frame từ 127.0.0.1:6589, kích thước: 10786 bytes
+2025-04-02 16:28:47.269 - Times - Decode: 2ms, Detect: 35ms, Mark: 12ms, AntiSpoof: 97ms, Extract: 36ms, Similarity: 0ms
+2025-04-02 16:28:47.269 - Đã gửi kết quả: Xác thực thành công | Similarity: 0.79 | Thời gian: 182ms

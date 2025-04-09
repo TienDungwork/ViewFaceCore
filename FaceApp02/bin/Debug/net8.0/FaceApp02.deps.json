@@ -1,0 +1,513 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FaceApp02/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SkiaSharp": "3.116.1",
+          "SocketIOClient": "3.1.1",
+          "System.Drawing.Common": "9.0.3",
+          "ViewFaceCore": "0.3.8",
+          "ViewFaceCore.Extension.SkiaSharp": "0.3.7",
+          "ViewFaceCore.all_models": "6.0.7",
+          "ViewFaceCore.model.fas_first": "6.0.7",
+          "ViewFaceCore.model.fas_second": "6.0.7",
+          "ViewFaceCore.runtime.win.x64": "6.0.7"
+        },
+        "runtime": {
+          "FaceApp02.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.Win32.SystemEvents/9.0.3": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "SkiaSharp/3.116.1": {
+        "dependencies": {
+          "SkiaSharp.NativeAssets.Win32": "3.116.1",
+          "SkiaSharp.NativeAssets.macOS": "3.116.1"
+        },
+        "runtime": {
+          "lib/net8.0/SkiaSharp.dll": {
+            "assemblyVersion": "3.116.0.0",
+            "fileVersion": "3.116.1.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.Linux/2.88.0": {
+        "dependencies": {
+          "SkiaSharp": "3.116.1"
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libSkiaSharp.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-arm64/native/libSkiaSharp.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-musl-x64/native/libSkiaSharp.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libSkiaSharp.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.macOS/3.116.1": {
+        "runtimeTargets": {
+          "runtimes/osx/native/libSkiaSharp.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.Win32/3.116.1": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/libSkiaSharp.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libSkiaSharp.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/libSkiaSharp.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SocketIO.Core/3.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/SocketIO.Core.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          }
+        }
+      },
+      "SocketIO.Serializer.Core/3.1.1": {
+        "dependencies": {
+          "SocketIO.Core": "3.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SocketIO.Serializer.Core.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          }
+        }
+      },
+      "SocketIO.Serializer.SystemTextJson/3.1.1": {
+        "dependencies": {
+          "SocketIO.Core": "3.1.1",
+          "SocketIO.Serializer.Core": "3.1.1",
+          "System.Text.Json": "7.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SocketIO.Serializer.SystemTextJson.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          }
+        }
+      },
+      "SocketIOClient/3.1.1": {
+        "dependencies": {
+          "SocketIO.Serializer.Core": "3.1.1",
+          "SocketIO.Serializer.SystemTextJson": "3.1.1",
+          "System.Collections": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SocketIOClient.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          }
+        }
+      },
+      "System.Collections/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Drawing.Common/9.0.3": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "9.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11202"
+          },
+          "lib/net8.0/System.Private.Windows.Core.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11202"
+          }
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Text.Encodings.Web/7.0.0": {},
+      "System.Text.Json/7.0.3": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "7.0.0"
+        }
+      },
+      "ViewFaceCore/0.3.8": {
+        "runtime": {
+          "lib/net6.0/ViewFaceCore.dll": {
+            "assemblyVersion": "0.3.8.0",
+            "fileVersion": "0.3.8.0"
+          }
+        }
+      },
+      "ViewFaceCore.all_models/6.0.7": {
+        "dependencies": {
+          "ViewFaceCore.model.age_predictor": "6.0.7",
+          "ViewFaceCore.model.eye_state": "6.0.7",
+          "ViewFaceCore.model.face_detector": "6.0.7",
+          "ViewFaceCore.model.face_landmarker_mask_pts5": "6.0.7",
+          "ViewFaceCore.model.face_landmarker_pts5": "6.0.7",
+          "ViewFaceCore.model.face_landmarker_pts68": "6.0.7",
+          "ViewFaceCore.model.face_recognizer": "6.0.7",
+          "ViewFaceCore.model.face_recognizer_light": "6.0.7",
+          "ViewFaceCore.model.face_recognizer_mask": "6.0.7",
+          "ViewFaceCore.model.fas_first": "6.0.7",
+          "ViewFaceCore.model.fas_second": "6.0.7",
+          "ViewFaceCore.model.gender_predictor": "6.0.7",
+          "ViewFaceCore.model.mask_detector": "6.0.7",
+          "ViewFaceCore.model.pose_estimation": "6.0.7",
+          "ViewFaceCore.model.quality_lbn": "6.0.7"
+        }
+      },
+      "ViewFaceCore.Extension.SkiaSharp/0.3.7": {
+        "dependencies": {
+          "SkiaSharp": "3.116.1",
+          "SkiaSharp.NativeAssets.Linux": "2.88.0",
+          "SkiaSharp.NativeAssets.Win32": "3.116.1",
+          "ViewFaceCore": "0.3.8"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ViewFaceCore.Extension.SkiaSharp.dll": {
+            "assemblyVersion": "0.3.7.0",
+            "fileVersion": "0.3.7.0"
+          }
+        }
+      },
+      "ViewFaceCore.model.age_predictor/6.0.7": {},
+      "ViewFaceCore.model.eye_state/6.0.7": {},
+      "ViewFaceCore.model.face_detector/6.0.7": {},
+      "ViewFaceCore.model.face_landmarker_mask_pts5/6.0.7": {},
+      "ViewFaceCore.model.face_landmarker_pts5/6.0.7": {},
+      "ViewFaceCore.model.face_landmarker_pts68/6.0.7": {},
+      "ViewFaceCore.model.face_recognizer/6.0.7": {},
+      "ViewFaceCore.model.face_recognizer_light/6.0.7": {},
+      "ViewFaceCore.model.face_recognizer_mask/6.0.7": {},
+      "ViewFaceCore.model.fas_first/6.0.7": {},
+      "ViewFaceCore.model.fas_second/6.0.7": {},
+      "ViewFaceCore.model.gender_predictor/6.0.7": {},
+      "ViewFaceCore.model.mask_detector/6.0.7": {},
+      "ViewFaceCore.model.pose_estimation/6.0.7": {},
+      "ViewFaceCore.model.quality_lbn/6.0.7": {},
+      "ViewFaceCore.runtime.win.x64/6.0.7": {}
+    }
+  },
+  "libraries": {
+    "FaceApp02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z0hIB2oeNqPOO0MYD0wkLpEe0LangoF3BSdMLLF5wft/rndYoXhLQvWni1OxymlWj+1adswAps2ZlrPmD9ZhBg==",
+      "path": "microsoft.win32.systemevents/9.0.3",
+      "hashPath": "microsoft.win32.systemevents.9.0.3.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "SkiaSharp/3.116.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DNDwbRjP+aMo27dV2h/uHCVTcWubWWxHnPLiePNyl24f4Pv43mQ8AQQeseOrKR+J3AOCEs6t0sUjo0aa3j3RWQ==",
+      "path": "skiasharp/3.116.1",
+      "hashPath": "skiasharp.3.116.1.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Linux/2.88.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AtMW2DzKV4BmVlzBwvxPkcJWI7o1UIDaJ5jN0XUxB9oMdYY6m4oX+k+m0RBAM9yQacf3F8galoPCxsUjA+VH+g==",
+      "path": "skiasharp.nativeassets.linux/2.88.0",
+      "hashPath": "skiasharp.nativeassets.linux.2.88.0.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.macOS/3.116.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3KPvpKysDmEMt0NnAZPX5U6KFk0LmG/72/IjAIJemIksIZ0Tjs9pGpr3L+zboVCv1MLVoJLKl3nJDXUG6Jda6A==",
+      "path": "skiasharp.nativeassets.macos/3.116.1",
+      "hashPath": "skiasharp.nativeassets.macos.3.116.1.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Win32/3.116.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dRQ75MCI8oz6zAs2Y1w6pq6ARs4MhdNG+gf3doOxOxdnueDXffQLGQIxON54GDoxc0WjKOoHMKBR4DhaduwwQw==",
+      "path": "skiasharp.nativeassets.win32/3.116.1",
+      "hashPath": "skiasharp.nativeassets.win32.3.116.1.nupkg.sha512"
+    },
+    "SocketIO.Core/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L5GSyODDjlub5YdDxfsRtA9uxBNw1Hs/egEMhdOGFyD0c63VmvWQ1A4Gfc4GYKYInz1muP4C8QNblXErnUYDqA==",
+      "path": "socketio.core/3.1.1",
+      "hashPath": "socketio.core.3.1.1.nupkg.sha512"
+    },
+    "SocketIO.Serializer.Core/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aFanlt2GOGEy7GTGLyh8f8SwhtmQwoPOHTAYCQ0brjg05Nb3F38sk4hYogpII5imyZ7w0spqwNHwpl7FZ49HOA==",
+      "path": "socketio.serializer.core/3.1.1",
+      "hashPath": "socketio.serializer.core.3.1.1.nupkg.sha512"
+    },
+    "SocketIO.Serializer.SystemTextJson/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1PKQ+hOAJ4l3ZXlrVgiB3uNY3kLhjzYjnxk/97V6npJrNmhq09Di2EQSpGweQMu6KPbOxjZ7eYVARkGTWIUsjg==",
+      "path": "socketio.serializer.systemtextjson/3.1.1",
+      "hashPath": "socketio.serializer.systemtextjson.3.1.1.nupkg.sha512"
+    },
+    "SocketIOClient/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g8Lauia1Cj5DBXeC9j6vDSJeQEboGmXsnduW06VOBMe+UgqCrenxszYXJg19rAjwO10XRWQorOuU1XNMfYo8Xg==",
+      "path": "socketioclient/3.1.1",
+      "hashPath": "socketioclient.3.1.1.nupkg.sha512"
+    },
+    "System.Collections/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
+      "path": "system.collections/4.3.0",
+      "hashPath": "system.collections.4.3.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yDxzWfZGvOtk8zk5apWXP/tmro1Nghn7/4bWS5np5CtwIfiVCC74qCc1qvIsnywvXKzVqIbKXRk09wts+xGfeg==",
+      "path": "system.drawing.common/9.0.3",
+      "hashPath": "system.drawing.common.9.0.3.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
+      "path": "system.text.encodings.web/7.0.0",
+      "hashPath": "system.text.encodings.web.7.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/7.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AyjhwXN1zTFeIibHimfJn6eAsZ7rTBib79JQpzg8WAuR/HKDu9JGNHTuu3nbbXQ/bgI+U4z6HtZmCHNXB1QXrQ==",
+      "path": "system.text.json/7.0.3",
+      "hashPath": "system.text.json.7.0.3.nupkg.sha512"
+    },
+    "ViewFaceCore/0.3.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UGMTMIwvpHWyJ8m4S8J1cze/CXC4xgX6dXe6w+UXy0/H186JzhMAFoOEOGom+DH7uMgBTko5y19VbsPkbkFz6A==",
+      "path": "viewfacecore/0.3.8",
+      "hashPath": "viewfacecore.0.3.8.nupkg.sha512"
+    },
+    "ViewFaceCore.all_models/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O6EAeKm6LagrpMqltlyyRI4XFkIkujfZinSoapNuKeT1jRCEW36UMQSFI8Ngej4I95ikllAozuVkDETpsbZyUA==",
+      "path": "viewfacecore.all_models/6.0.7",
+      "hashPath": "viewfacecore.all_models.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.Extension.SkiaSharp/0.3.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pcnMV/tWTTcroGzpbNGpcUMCJX5EWjIHSlLPR/dwOXy48MSgsBmq5mrxAesj+Ky9Nld/XFx/xZXSZiNZUMQxKg==",
+      "path": "viewfacecore.extension.skiasharp/0.3.7",
+      "hashPath": "viewfacecore.extension.skiasharp.0.3.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.age_predictor/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wy8gfElQHgvngzsoNmQcOwGjSWu6SU1NHKpR/HwhsEFx872rvD/YWooTESSf/8MENMATKxiFyjtZAPDQ1pcBUA==",
+      "path": "viewfacecore.model.age_predictor/6.0.7",
+      "hashPath": "viewfacecore.model.age_predictor.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.eye_state/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MjMOEBdieSOpeLtIu7ApS1nBF59EZrW2iYbaKQDs9dfUQ/ISZ3WbmoWog6gMrPTUV2lDxl4h1paUHs5DMvOf7A==",
+      "path": "viewfacecore.model.eye_state/6.0.7",
+      "hashPath": "viewfacecore.model.eye_state.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.face_detector/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RNoaSvlZU7FHjx5Ldh+wl02VAmfksCV0HqZmJdB/5zjFRqAGVCn6UbwxKVJgSwSYNH2ctG6DTzUopvEAihBESA==",
+      "path": "viewfacecore.model.face_detector/6.0.7",
+      "hashPath": "viewfacecore.model.face_detector.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.face_landmarker_mask_pts5/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sIqQxolySmJnaLBFvH7P4nhWqE1j8laQrAcRnlcy/8lbtsirZpjIGCtKfLtK//FczD/0qNTC8yW/YIdR5rFTpg==",
+      "path": "viewfacecore.model.face_landmarker_mask_pts5/6.0.7",
+      "hashPath": "viewfacecore.model.face_landmarker_mask_pts5.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.face_landmarker_pts5/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K4XLoSHGjGHn+VquL25BtGgPQ9g0Fd1WBrC4tS3yW6PPMaaCbxnBBhAu9mB7gMvg0sHmkkqEY+iKZnFSpgvZUg==",
+      "path": "viewfacecore.model.face_landmarker_pts5/6.0.7",
+      "hashPath": "viewfacecore.model.face_landmarker_pts5.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.face_landmarker_pts68/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0b5tBudq2reirwNMMKLFm5nwTZkHD8BCUqAzRiPjY47CJhAIqgD+0Y9BJjF5BSTR6aJgqI686WTocI3cz2w8XQ==",
+      "path": "viewfacecore.model.face_landmarker_pts68/6.0.7",
+      "hashPath": "viewfacecore.model.face_landmarker_pts68.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.face_recognizer/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RrZVGcKuX4PDSZk5vB1FipfrtxGe832zbIF03fSr13Aaiv2R0HWRnt7Ys+5apd5Bw5rAosaqTMUiILYLNMqvJg==",
+      "path": "viewfacecore.model.face_recognizer/6.0.7",
+      "hashPath": "viewfacecore.model.face_recognizer.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.face_recognizer_light/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bVkV+PRa0eXJkuE1RKONF/i7mgoDpT3zhl4M/eSWVEFME4TVwT5woolnwmwq4y/Pkz7nTRSl55Y718RH2y1XDA==",
+      "path": "viewfacecore.model.face_recognizer_light/6.0.7",
+      "hashPath": "viewfacecore.model.face_recognizer_light.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.face_recognizer_mask/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RZ4stmX/mjR5+s75jt7X0EYpRkLOzZcSsxnKMweV17zx47B1EySWgvW5yve8whMt2xa58alKpAWe8kuL8SfIbg==",
+      "path": "viewfacecore.model.face_recognizer_mask/6.0.7",
+      "hashPath": "viewfacecore.model.face_recognizer_mask.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.fas_first/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ixNHQZMRjF+ttEX4YLvGA0YxvLS/CAjMYaOShc+W7xiFU7kAh4XikoPxIkY7ph1TJT2wAUvcRUEFURGn/a2WFg==",
+      "path": "viewfacecore.model.fas_first/6.0.7",
+      "hashPath": "viewfacecore.model.fas_first.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.fas_second/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QV2EooFUJIwEHH11I+jOIG6oEREFGiFozIDuvlBRlNVog2drQuAMAB+c9q1OS4gnEuAOTOMu0qddOijH46jyFA==",
+      "path": "viewfacecore.model.fas_second/6.0.7",
+      "hashPath": "viewfacecore.model.fas_second.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.gender_predictor/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HHQ1zWpGYD76aeXyuj7eUu6PH/NAU2pjgMZUtt1iBdc9zYUyDRW8zLAstKg3FKqDhMDZIEsKA8qsy1s+cVFiOA==",
+      "path": "viewfacecore.model.gender_predictor/6.0.7",
+      "hashPath": "viewfacecore.model.gender_predictor.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.mask_detector/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TAS8HRvrf6JUrnG+u3YkLXaaK19uVy04bWbBqFLtX4RKqTt+9t4UoXqDWg+GBC9mjo6ssfI+YZfd2lkCmgWX2Q==",
+      "path": "viewfacecore.model.mask_detector/6.0.7",
+      "hashPath": "viewfacecore.model.mask_detector.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.pose_estimation/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OoXLB4I+pWAvA7j7OC35uVnRDeka61IO7tg40uxZZuHS0osKGl44t9PUh6WtMEqAEFPXOVKMjElj+ztU0ivDjA==",
+      "path": "viewfacecore.model.pose_estimation/6.0.7",
+      "hashPath": "viewfacecore.model.pose_estimation.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.model.quality_lbn/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S4jJBPF0/deB4vgLey+NmxyE9vIdUK/SbqoxOul6yVTMjo9PvFBgk3EiGbPcV5vY5d+1CuudWIJOi5tdTY6rPg==",
+      "path": "viewfacecore.model.quality_lbn/6.0.7",
+      "hashPath": "viewfacecore.model.quality_lbn.6.0.7.nupkg.sha512"
+    },
+    "ViewFaceCore.runtime.win.x64/6.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oWC76bQ6xGgvky+fXUUT9x78Z65PztxJobB7dlnE9uoqitZ8QTMuM76JZy58r1smxSI5CeNCTybpUHNcbq/5qg==",
+      "path": "viewfacecore.runtime.win.x64/6.0.7",
+      "hashPath": "viewfacecore.runtime.win.x64.6.0.7.nupkg.sha512"
+    }
+  }
+}
